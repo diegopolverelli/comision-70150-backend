@@ -1,0 +1,42 @@
+{"level":"error","message":"lalalala is not defined"}
+{"level":"error","message":"lalalala is not defined"}
+{
+  message: 'lalalala is not defined',
+  level: 'error',
+  timestamp: '2024-12-10T00:13:24.688Z'
+}
+{
+  message: 'lalalala is not defined',
+  level: 'error',
+  timestamp: '2024-12-10T00:15:58.037Z'
+}
+{
+  message: 'lalalala is not defined - hostname: LAPTOP-4BC9K1BN - user: diego',
+  level: 'error',
+  timestamp: '2024-12-10T00:19:34.566Z'
+}
+{
+  message: 'lalalala is not defined - hostname: LAPTOP-4BC9K1BN - user: diego',
+  level: 'error',
+  timestamp: '2024-12-10T00:19:35.495Z'
+}
+{
+  message: 'lalalala is not defined - hostname: LAPTOP-4BC9K1BN - user: diego',
+  level: 'error',
+  timestamp: '2024-12-10T00:19:35.948Z'
+}
+{
+  message: 'lalalala is not defined - hostname: LAPTOP-4BC9K1BN - user: diego',
+  level: 'error',
+  timestamp: '2024-12-10T00:24:25.896Z'
+}
+{
+  message: 'lalalala is not defined - hostname: LAPTOP-4BC9K1BN - user: diego',
+  level: 'error',
+  timestamp: '2024-12-10T00:25:12.144Z'
+}
+{
+  message: 'lalalala is not defined - hostname: LAPTOP-4BC9K1BN - user: diego',
+  level: 'error',
+  timestamp: '2024-12-10T00:25:42.686Z'
+}

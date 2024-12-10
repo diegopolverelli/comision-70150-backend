@@ -1,0 +1,35 @@
+{
+  message: 'lalalala is not defined - prueba log http - hostname: LAPTOP-4BC9K1BN - user: diego',
+  level: 'http',
+  timestamp: '2024-12-10T00:24:25.900Z'
+}
+{
+  message: 'lalalala is not defined - prueba log verbose - hostname: LAPTOP-4BC9K1BN - user: diego',
+  level: 'verbose',
+  timestamp: '2024-12-10T00:24:25.901Z'
+}
+{
+  message: 'lalalala is not defined',
+  level: 'error',
+  timestamp: '2024-12-10T00:25:12.146Z'
+}
+{
+  message: 'lalalala is not defined - prueba log http',
+  level: 'http',
+  timestamp: '2024-12-10T00:25:12.147Z'
+}
+{
+  message: 'lalalala is not defined - prueba log verbose',
+  level: 'verbose',
+  timestamp: '2024-12-10T00:25:12.148Z'
+}
+{
+  message: 'lalalala is not defined - prueba log http - hostname: LAPTOP-4BC9K1BN - user: diego',
+  level: 'http',
+  timestamp: '2024-12-10T00:25:42.692Z'
+}
+{
+  message: 'lalalala is not defined - prueba log verbose - hostname: LAPTOP-4BC9K1BN - user: diego',
+  level: 'verbose',
+  timestamp: '2024-12-10T00:25:42.694Z'
+}
